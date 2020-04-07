@@ -2,17 +2,6 @@
     "elements": [
         { "type": "ValidationTextBox", "name": "MQTTTopic", "caption": "MQTT Topic" }
     ],
-    "actions": [
-        {
-            "name": "Text",
-            "type": "ValidationTextBox",
-            "caption": "Text"
-        },
-        {
-            "type": "Button",
-            "caption": "Send",
-            "onClick": "ATV_Send($id, $Text);"
-        }
-    ],
+    "actions": [],
     "status": []
 }
