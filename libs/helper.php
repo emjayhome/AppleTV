@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 trait ATVHelper
 {
     protected function RegisterProfileInteger($Name, $Icon, $Prefix, $Suffix, $MinValue, $MaxValue, $StepSize)
