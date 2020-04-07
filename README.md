@@ -4,7 +4,7 @@
 [![Check Style](https://github.com/Schnittcher/AppleTV/workflows/Check%20Style/badge.svg)](https://github.com/Schnittcher/AppleTV/actions)
 
 # AppleTV
-   Mit diesem Modul ist es möglich einen Apple TV mithilfen des NodeJS Tool (https://github.com/sebbo2002/atv2mqtt) über MQTT in IP-Symcon zu integrieren.
+   Mit diesem Modul ist es möglich einen Apple TV mithilfe des NodeJS Tool (https://github.com/sebbo2002/atv2mqtt) über MQTT in IP-Symcon zu integrieren.
  
    ## Inhaltverzeichnis
    1. [Voraussetzungen](#1-voraussetzungen)
