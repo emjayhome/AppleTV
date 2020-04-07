@@ -1,0 +1,12 @@
+{
+    "id": "{63C92805-7F3E-4345-456C-47DBDE83E543}",
+    "author": "Kai Schnittcher",
+    "name": "AppleTV",
+    "url": "https://deinsmarthome.info",
+    "compatibility": {
+        "version": "5.1"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}

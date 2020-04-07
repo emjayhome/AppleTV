@@ -1,0 +1,31 @@
+{
+    "translations": {
+        "de": {
+            "Name": "Name",
+            "IP Address": "IP-Adresse",
+            "Up": "Hoch",
+            "Down": "Runter",
+            "Left": "Links",
+            "Right": "Rechts",
+            "Menue": "Menü",
+            "Play": "Wiedergabe",
+            "Pause": "Pause",
+            "Next": "Weiter",
+            "Previous": "Zurück",
+            "Suspend": "Standby",
+            "Select": "Select",
+            "Long TV": "Long TV",
+            "TV": "TV",
+            "Controls": "Steuerung",
+            "Duration": "Dauer",
+            "Elapsed Time": "Verstrichene Zeit",
+            "Title": "Titel",
+            "Artist": "Artist",
+            "Album": "Album",
+            "App": "App",
+            "AppBundleIdentifier": "AppBundleIdentifier",
+            "State": "Status",
+            "Timestamp": "Timestamp"
+        }
+    }
+}
