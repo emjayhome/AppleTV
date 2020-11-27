@@ -155,7 +155,7 @@ require_once __DIR__ . '/../libs/helper.php';
                     case $MQTTTopic . '/appBundleIdentifier':
                         $this->SetValue('AppBundleIdentifier', $Buffer->Payload);
                         break;
-                    case $MQTTTopic . '/playbackState':
+                    case $MQTTTopic . '/deviceState':
                         $this->SetValue('PlayBackState', $Buffer->Payload);
                         break;
                 }
