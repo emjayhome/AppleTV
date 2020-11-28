@@ -160,7 +160,11 @@ require_once __DIR__ . '/../libs/helper.php';
                         $this->SetValue('AppBundleIdentifier', $Buffer->Payload);
                         break;
                     case $MQTTTopic . '/deviceState':
-                        $this->SetValue('PlayBackState', $Buffer->Payload);
+                        if($Buffer->Payload != "null") {
+                            $this->SetValue('PlayBackState', $Buffer->Payload);
+                        } else {
+                            $this->SetValue('PlayBackState', "off");
+                        }
                         break;
                 }
             }
