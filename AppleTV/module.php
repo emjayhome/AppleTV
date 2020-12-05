@@ -144,7 +144,7 @@ require_once __DIR__ . '/../libs/helper.php';
                         if($Buffer->Payload != "null") {
                             $this->SetValue('Title', $Buffer->Payload);
                         } else {
-                            $this->SetValue('Title', "");
+                            $this->SetValue('Title', "-");
                         }
                         break;
                     case $MQTTTopic . '/artist':
